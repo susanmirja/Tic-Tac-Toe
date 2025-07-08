@@ -22,3 +22,20 @@ Enter your move (row and column: 1-3 1-3): 2 3
 ⏱ Instant feedback and board updates
 
 ❌ No external libraries needed — 100% standard C
+
+---
+
+🛠 How to Compile & Run
+
+📦 Requirements
+
+GCC or any standard C compiler
+
+
+⚙ Compile
+
+gcc unbeatable_tictactoe.c -o tictactoe
+
+▶ Run
+
+./tictactoe
