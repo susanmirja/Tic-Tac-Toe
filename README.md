@@ -16,6 +16,9 @@ Enter your move (row and column: 1-3 1-3): 2 3
 ## 🧠 Features
 
 ✅ Unbeatable AI using Minimax algorithm
+
 👤 Player vs Computer mode
+
 ⏱ Instant feedback and board updates
+
 ❌ No external libraries needed — 100% standard C
