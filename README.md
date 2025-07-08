@@ -13,23 +13,12 @@ This is a *terminal-based Tic Tac Toe game* written in C where you play against 
 ```text
 Enter your move (row and column: 1-3 1-3): 2 3
 
----
+🧠 Features
 
-## 🧠 Features
+✅ Unbeatable AI using Minimax algorithm
 
-- ✅ Unbeatable AI (Minimax algorithm)
-- 👤 Human vs Computer
-- 🔁 Turn-based logic
-- 💻 Command-line interface
-- 🔗 No external libraries required
+👤 Player vs Computer mode
 
----
+⏱ Instant feedback and board updates
 
-## 🛠 How to Compile & Run
-
-### ✅ Requirements
-- A C compiler like gcc or clang
-
-### 🔧 Compile
-```bash
-gcc unbeatable_tictactoe.c -o tictactoe
+❌ No external libraries needed — 100% standard C
