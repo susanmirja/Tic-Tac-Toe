@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <limits.h>
-
+ 
 #define PLAYER 'X' // Human
 #define AI 'O'     // Computer
 
