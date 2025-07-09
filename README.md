@@ -78,3 +78,17 @@ Made with ❤ and C by [Your Name]
 Feel free to fork, modify, or contribute!
 
 
+---
+
+📜 License
+
+This project is licensed under the MIT License
+
+
+---
+
+🌟 Star This Repo
+
+If you found this helpful, don't forget to ⭐ star the repository!
+
+---
