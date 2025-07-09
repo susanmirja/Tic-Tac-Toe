@@ -63,9 +63,9 @@ gcc unbeatable_tictactoe.c -o tictactoe
 
 X | O | X
 -----------
- O | X | O
+O | X | O
 -----------
- X | ㅤ | ㅤ
+X | ㅤ | ㅤ
 
 AI played at (3, 2)
 
